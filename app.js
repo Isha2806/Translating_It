@@ -8,7 +8,7 @@ var translateButton = document.querySelector("#trans-button");
 var clearButton = document.querySelector("#clear-button");
 
 
-//var url = 'https://api.funtranslations.com/translate/ebonics.json';
+
 var url = 'https://api.funtranslations.com/translate/dolan.json';
 
 
